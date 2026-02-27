@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: py-app
-        image:lokesh815/python-base-image:a1  
+        image: lokesh815/python-base-image:a1  
         ports:
         - containerPort: 8000
