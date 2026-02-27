@@ -4,7 +4,7 @@ metadata:
   name: py-app-service1
 spec:
   selector:
-    app: py-app-service1
+    app: py-app
   ports:
     - protocol: TCP
       port: 80
